@@ -27,7 +27,7 @@ SECRET_KEY = os.getenv("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["cosmoblog.onrender.com"]
+ALLOWED_HOSTS = ["cosmoblog-obr9.onrender.com"]
 
 
 # Application definition
